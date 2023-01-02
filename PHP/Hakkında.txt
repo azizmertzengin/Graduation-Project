@@ -1,0 +1,10 @@
+Direkt android uygulamanın bağlandığı PHP dosyaları.
+Bu dosyalar direkt olarak SQL'e bağlantı kurmaktadır.
+
+SQL'de ip adresi koruması olduğu için aşağıdaki bağlantıdan korumasız olarak ulaşıp deneyebilirsiniz.
+
+Domainin geçerlilik süresi doldu.
+
+---------------------
+
+https://ngtcraft.store/cryptoBot/

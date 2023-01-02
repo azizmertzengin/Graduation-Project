@@ -1,0 +1,15 @@
+Kurulum
+
+Kolay:
+1- Komut istemcisini (cmdhere.bat) bu klasörde çalıştırın. Herhangi bir hata durumunda cmd'yi açıp cd ile bu konuma gelebilirsiniz.
+2- venvwin\Scripts\activate yazarak Python env'i çağırın.
+3- python main.py yazarak botu çalıştırın.
+
+
+Tavsiye edilen:
+1- Python 3.6.8 kurun.
+2- Setup.bat'ı çalıştırarak gerekli modülleri kurun.
+3- Komut istemcisini (cmdhere.bat) bu klasörde çalıştırarak direkt python main.py ile çalıştırın.
+4- Böylece daha stabil çalışacaktır.
+
+Not: Tavsiye edilen kurulum için bilgisayarınızda sadece Python 3.6.8 kurulu olması önerilmektedir.

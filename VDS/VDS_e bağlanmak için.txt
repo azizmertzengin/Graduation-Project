@@ -1,0 +1,9 @@
+Bu VDS'in geçerlilik süresi doldu.
+
+----------------
+
+1- Windows üzerinden "Uzak Masaüstü Bağlantısı" aracını çalıştırın.
+2- Bilgisayar kısmına "ip" adresini girin.
+3- Kullanıcı adına "vds" yazın.
+4- Şifre sorulduğunda "password" yazın ve bağlanın.
+

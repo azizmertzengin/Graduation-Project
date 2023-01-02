@@ -1,0 +1,3 @@
+py3cw
+requests
+python-binance
